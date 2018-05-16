@@ -1,0 +1,42 @@
+{
+  "extends": [ "tslint:latest", "tslint-react" ],
+  "defaultSeverity": "error",
+  "autoFixOnSave": true,
+  "enabled": true,
+  "packageManager": "yarn",
+  "jsRules": {
+    "quotemark": { "options": [ "single", "avoid-escape" ] },
+    "semicolon": { "options": [ "never" ] }
+  },
+  "rules": {
+    "array-type": [ true, "generic" ],
+    "arrow-parens": [ true, "ban-single-arg-parens" ],
+    "ban-types": false,
+    "forin": false,
+    "indent": [ true, "spaces", 2 ],
+    "interface-name": [ true, "never-prefix" ],
+    "jsdoc-format": [ true, "check-multiline-start" ],
+    "max-line-length": [true, 128],
+    "member-ordering": false,
+    "new-parens": true,
+    "no-consecutive-blank-lines": true,
+    "no-console": true,
+    "no-default-export": true,
+    "no-empty": true,
+    "no-implicit-dependencies": [ false ],
+    "no-submodule-imports": [ false ],
+    "no-trailing-whitespace": true,
+    "no-unnecessary-initializer": true,
+    "no-var-requires": true,
+    "object-literal-sort-keys": false,
+    "one-variable-per-declaration": false,
+    "only-arrow-functions": false,
+    "ordered-imports": true,
+    "prefer-const": true,
+    "prefer-for-of": false,
+    "quotemark": [ true, "single", "avoid-escape", "avoid-template" ],
+    "semicolon": { "options": [ "never" ] },
+    "space-before-function-paren": [ true, "always" ],
+    "trailing-comma": true
+  }
+}
