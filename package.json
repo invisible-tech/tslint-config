@@ -1,12 +1,13 @@
 {
   "name": "@invisible/tslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Invisible's TSLint rules",
   "main": "tslint.json",
   "repository": "git@github.com:invisible-tech/tslint-config.git",
   "author": "Invisible Technologies Inc. <engineering@invisible.email>",
   "license": "MIT",
   "dependencies": {
+    "tslint-eslint-rules": "^5.3.1",
     "tslint-react": "^3.6.0"
   }
 }
