@@ -9,6 +9,7 @@
     "semicolon": { "options": [ "never" ] }
   },
   "rules": {
+    "array-bracket-spacing": [ true, "always" ],
     "array-type": [ true, "generic" ],
     "arrow-parens": [ true, "ban-single-arg-parens" ],
     "ban-types": false,
@@ -28,6 +29,7 @@
     "no-trailing-whitespace": true,
     "no-unnecessary-initializer": true,
     "no-var-requires": true,
+    "object-curly-spacing": [ true, "always" ],
     "object-literal-sort-keys": false,
     "one-variable-per-declaration": false,
     "only-arrow-functions": false,
