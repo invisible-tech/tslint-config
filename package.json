@@ -7,6 +7,7 @@
   "author": "Invisible Technologies Inc. <engineering@invisible.email>",
   "license": "MIT",
   "dependencies": {
+    "tslint-eslint-rules": "^5.3.1",
     "tslint-react": "^3.6.0"
   }
 }
