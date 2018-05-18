@@ -1,3 +1,6 @@
+*1.0.3*
+> Fix: Don't enforce curly/scopes for one line conditionals for js files.
+
 *1.0.2*
 > Internal: Add support for ESLint rules through `tslint-eslint-rules` package.
 

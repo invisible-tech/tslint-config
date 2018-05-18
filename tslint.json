@@ -6,7 +6,11 @@
   "packageManager": "yarn",
   "jsRules": {
     "quotemark": { "options": [ "single", "avoid-escape" ] },
-    "semicolon": { "options": [ "never" ] }
+    "semicolon": { "options": [ "never" ] },
+    "curly": [
+      true,
+      "ignore-same-line"
+    ]
   },
   "rules": {
     "array-bracket-spacing": [ true, "always" ],
