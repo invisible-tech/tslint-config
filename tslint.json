@@ -33,6 +33,7 @@
     "no-submodule-imports": [ false ],
     "no-trailing-whitespace": true,
     "no-unnecessary-initializer": true,
+    "no-unused-variable": true,
     "no-var-requires": true,
     "object-curly-spacing": [ true, "always" ],
     "object-literal-sort-keys": false,
