@@ -1,3 +1,6 @@
+*1.0.4*
+> Feat: Add "no-unused-variable" rule
+
 *1.0.3*
 > Fix: Don't enforce curly/scopes for one line conditionals for js files.
 
