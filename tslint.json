@@ -20,7 +20,7 @@
     "curly": [true, "ignore-same-line"],
     "forin": false,
     "indent": [ true, "spaces", 2 ],
-    "interface-name": [ true, "never-prefix" ],
+    "interface-name": [ true, "always-prefix" ],
     "jsdoc-format": [ true, "check-multiline-start" ],
     "max-line-length": [true, 128],
     "member-ordering": false,
