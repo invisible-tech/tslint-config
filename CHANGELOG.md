@@ -1,3 +1,6 @@
+*1.0.5*
+> Fix: Switch "interface-name" to always-prefix with interfaces with "I".
+
 *1.0.4*
 > Feat: Add "no-unused-variable" rule
 
