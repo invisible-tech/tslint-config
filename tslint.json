@@ -39,7 +39,10 @@
     "object-literal-sort-keys": false,
     "one-variable-per-declaration": false,
     "only-arrow-functions": false,
-    "ordered-imports": true,
+    "ordered-imports": [true, {
+      "import-sources-order": "any",
+      "named-imports-order": "case-insensitive"
+    }],
     "prefer-const": true,
     "prefer-for-of": false,
     "quotemark": [ true, "single", "avoid-escape", "avoid-template" ],
