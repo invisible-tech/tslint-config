@@ -1,3 +1,6 @@
+*1.0.6*
+> Feature: Require the end of file to always have an empty space.
+
 *1.0.5*
 > Fix: Switch "interface-name" to always-prefix with interfaces with "I".
 
