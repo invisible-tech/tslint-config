@@ -1,3 +1,6 @@
+*1.0.7*
+> Feature: Disable no jsx multiline rule
+
 *1.0.6*
 > Feature: Require the end of file to always have an empty space.
 
