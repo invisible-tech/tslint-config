@@ -46,6 +46,7 @@
     "semicolon": { "options": [ "never" ] },
     "space-before-function-paren": [ true, "always" ],
     "trailing-comma": true,
-    "eofline": true
+    "eofline": true,
+    "jsx-no-multiline-js": false
   }
 }
