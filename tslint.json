@@ -45,8 +45,10 @@
     "quotemark": [ true, "single", "avoid-escape", "avoid-template" ],
     "semicolon": { "options": [ "never" ] },
     "space-before-function-paren": [ true, "always" ],
-    "trailing-comma": true,
+    "trailing-comma": [true, {"multiline": "always", "singleline": "never"}]   ,
     "eofline": true,
-    "jsx-no-multiline-js": false
+    "jsx-no-multiline-js": false,
+    "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"],
+    "no-semicolon-interface": true
   }
 }
