@@ -1,6 +1,6 @@
 {
   "name": "@invisible/tslint-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Invisible's TSLint rules",
   "main": "tslint.json",
   "repository": "git@github.com:invisible-tech/tslint-config.git",
