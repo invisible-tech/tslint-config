@@ -1,3 +1,6 @@
+*1.0.9*
+> Fix: extend tslint-divid package
+
 *1.0.7*
 > Feature: Disable no jsx multiline rule
 
