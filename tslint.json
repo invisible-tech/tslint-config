@@ -1,5 +1,5 @@
 {
-  "extends": [ "tslint:latest", "tslint-react", "tslint-eslint-rules" ],
+  "extends": [ "tslint:latest", "tslint-react", "tslint-eslint-rules", "tslint-divid" ],
   "defaultSeverity": "error",
   "autoFixOnSave": true,
   "enabled": true,
