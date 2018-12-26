@@ -32,7 +32,7 @@
     "no-default-export": true,
     "no-empty": true,
     "no-implicit-dependencies": [ false ],
-    "semicolon": [true, "never", "ignore-interfaces"],
+    "semicolon": [true, "never"],
     "no-submodule-imports": [ false ],
     "no-trailing-whitespace": true,
     "no-unnecessary-initializer": true,
