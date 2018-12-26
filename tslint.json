@@ -32,7 +32,7 @@
     "no-default-export": true,
     "no-empty": true,
     "no-implicit-dependencies": [ false ],
-    "no-semicolon-interface": true,
+    "semicolon": [true, "never", "ignore-interfaces"],
     "no-submodule-imports": [ false ],
     "no-trailing-whitespace": true,
     "no-unnecessary-initializer": true,
@@ -46,7 +46,6 @@
     "prefer-const": true,
     "prefer-for-of": false,
     "quotemark": [ true, "single", "avoid-escape", "avoid-template" ],
-    "semicolon": { "options": [ "never" ] },
     "space-before-function-paren": [ true, "always" ],
     "trailing-comma": [true, {"multiline": "always", "singleline": "never"}]   ,
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"]
