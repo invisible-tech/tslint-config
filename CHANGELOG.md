@@ -1,3 +1,6 @@
+*1.0.10*
+> Fix: removed "no-semicolon-interface" and add extra options to semicolon  
+
 *1.0.9*
 > Fix: extend tslint-divid package
 
